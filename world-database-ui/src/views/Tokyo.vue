@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div>東京のデータ習得testするよ</div>
+    <div>東京のデータ習得testするよ!</div>
     <div>{{ TokyoInfo }}</div>
 
     <div v-if="TokyoInfo">{{ TokyoInfo }}</div>
