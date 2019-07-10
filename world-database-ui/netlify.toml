@@ -1,0 +1,4 @@
+[[redirects]]
+    from="/api/*"
+    to = "http://worlddatabase.series2.trap.show/:splat"
+    status = 200
